@@ -1,4 +1,13 @@
-# React + Vite
+# 🚀 User Management App
+
+A full-stack web application for user management, powered by **Node.js/Express**, **MongoDB**, and **React**.
+
+## ✨ Features
+
+- 🏠 **Dashboard**: Quick navigation between user actions  
+- ➕ **Add New User**: Form to create users with name, email, and phone  
+- 📋 **User List**: View, edit, or delete registered users  
+- 🔗 **REST API**: Endpoints for user CRUD operations# React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -10,6 +19,11 @@ Currently, two official plugins are available:
 ## React Compiler
 
 The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+
+
+
+
+
 
 ## Expanding the ESLint configuration
 
